@@ -4,3 +4,4 @@ set: a script that lists all local variables and environment variables, and func
 creates a new local variable.
 Name: BEST
 Value: SchoolBEST=School
+GLOBAL Variable:export BEST=School
