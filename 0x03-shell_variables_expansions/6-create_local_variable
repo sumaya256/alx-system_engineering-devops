@@ -1,2 +1,2 @@
 #!/bin/bash
-func () { local loc_var=School #
+BEST=School
